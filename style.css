@@ -1,13 +1,8 @@
-body{
-    background: rgb(168, 131, 243);
-}
-
-
-p{
+p {
     text-align: center;
-    background: rgb(168, 131, 243);
-}
-
-h1  {
-    background: rgb(147, 112, 216);
-}
+    }
+    
+    body {
+    background: #e89aeb;
+    }
+    
