@@ -1,8 +1,9 @@
-p {
+body {
+    background: #d898c8;
+    }
+    
+    p {
     text-align: center;
     }
     
-    body {
-    background: #e89aeb;
-    }
     
