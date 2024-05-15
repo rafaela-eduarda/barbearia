@@ -1,5 +1,5 @@
 header{
-    background: #f6c6eb;
+    background: #e24c4c;
     padding: 20px 0;
 }
 
@@ -30,7 +30,7 @@ text-decoration: none ;
 }
 
 nav a:hover {
-    color: #d3571d;
+    color: #ffafaf;
     text-decoration: underline;
 }
 
