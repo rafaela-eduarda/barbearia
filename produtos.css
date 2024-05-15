@@ -1,5 +1,5 @@
 header{
-    background: #bbbbbb;
+    background: #ff5757;
     padding: 20px 0;
 }
 
@@ -18,20 +18,29 @@ nav{
 nav li{
     display: inline;
     margin: 0 0 0 15px;
+
 }
 
-nav a:hover{
-    color: #c78c19;
+nav a{
+    text-transform: uppercase;
+    color: #000000;
+font-weight: bold;
+font-size: 22px;
+text-decoration: none ;
+}
+
+nav a:hover {
+    color: #d3571d;
     text-decoration: underline;
 }
 
 .produtos {
     width: 940px;
-    margin: 0 auto ;
+    margin: 0 auto;
     padding: 50px 0;
 }
 
-.produtos li{
+.produtos li {
     display: inline-block;
     text-align: center;
     width: 30%;
@@ -39,7 +48,6 @@ nav a:hover{
     margin: 0 1.5%;
     padding: 30px 20px;
     box-sizing: border-box;
-    border: 2px solid #0000000;
-    border: radius 10px;
-    
+    border: 2px solid #000000;
+    border-radius: 10px;
 }
