@@ -4,20 +4,14 @@ body{
     text-align: center;
     }
     
-    
-    
-    
-    
     h1{
         text-align: center;
     background-color: rgb(59, 48, 47);
     border: 10px solid rgb(255, 173, 251) ;
-    
     }
     
     
     em strong {
-    
         color: rgb(255, 89, 205);
     }
     
@@ -48,7 +42,7 @@ body{
         vertical-align: top; 
         width:20%;
         margin-right: 15%;
-        border:3px solid black ;
+       /* border:3px solid black ;*/
         margin-top: 70px;
         line-height: 1.5;
         font-size: 18px;

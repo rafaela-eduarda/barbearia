@@ -55,6 +55,7 @@ nav a:hover {
 .produtos li:hover {
     border-color: #be19c7;
  }
+
  .produtos li:active {
     border-color: #088C19;    
  }
@@ -67,6 +68,7 @@ nav a:hover {
     font-size: 30px;
     font-weight: bold;
  }            
+
  .produto-descricao {
     font-size: 18px;
  }
@@ -76,6 +78,7 @@ nav a:hover {
     font-weight: bold;
     margin-top: 10px;
  }
+ 
  footer {
     text-align: center;
     background: url("bg.jpg");
